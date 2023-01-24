@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+    <channel>
+        <title>Xenon Mods</title>
+        <link>https://xenonshadow.github.io/xenonmods.github.io/index.html</link>
+        <description>Xenon Mods - Minecraft modpacks and more</description>
+        <item>
+            <title>New pack soon and more</title>
+            <pubDate>Mon, 23 Jan 2023 11:46:00 CST</pubDate>
+            <guid>https://xenonshadow.github.io/xenonmods.github.io/blog.html</guid>
+            <description>Stay tuned for a new pack soon. Additionally, for you bedrock fans, I may have something for you soon. I will announce any updates here. </description>
+        </item>
+    </channel>
+</rss>

@@ -70,14 +70,6 @@ a {
 	border-radius: 5px;
 }
 
-
-/* =================================
-  Media Queries
-==================================== */
-
-
-
-
 @media (min-width: 769px) {
 	.header,
 	.main-nav {

@@ -17,5 +17,11 @@
             <image>MCJourneys1.png</image>
             <description>Formally announcing Minecraft Journeys, a questing pack! More info to come.</description>
         </item>
+        <item>
+            <title>Journeys Project Update</title>
+            <pubDate>Thurs. 14 September 2023 2:01:00 CST</pubDate>
+            <guid>https://xenonshadow.github.io/xenonmods.github.io/blog.html</guid>
+            <image>Journeysicon2.png</image>
+            <description>Development is reaching the late stages. Quest progression is nearly done, and the modlist is almost finalized. I may still modify it but this is a stable point to jump in. I also made the decision to add some endgame content myself, which was a contributing factor to some delays, but I hope it will be good enough to satisfy. The pack currently has ~470 quests. This is my first pack of this scale, and I am glad to see it coming together. Stay tuned for a beta announcement soon. Also, keep in mind this will be a beta, and not the finished product. Feel free to report any issues so I can solve them before the full release. Also, new pack icon, made by a friend.</description>
     </channel>
 </rss>
